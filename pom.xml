@@ -20,7 +20,7 @@
     </properties>
 
     <dependencies>
-        <!-- Залежність для JUnit з Maven Central Repository -->
+
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
@@ -41,7 +41,6 @@
             </plugin>
         </plugins>
 
-        <!-- Застарілі плагіни можна видалити, оскільки Maven сам вибирає актуальні версії -->
         <pluginManagement>
             <plugins>
                 <plugin>
